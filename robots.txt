@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ru0k3.github.io/portfolio/sitemap.xml
